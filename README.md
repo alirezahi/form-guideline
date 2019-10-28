@@ -7,10 +7,10 @@
     * write “optional” in your placeholder.
     * you can use both of the above upper options based on the form situation.
 
-* Add inline error messages
+* Errors near their fields
     * add errors near the field which has it.
     
-* Use a Single-Clumn Layout
+* A Single-Column Layout
     * Avoid placing questions side-by-side..
 
 * Example in Placeholders
@@ -22,3 +22,4 @@
 * Navigable through Tab
     * Check that it would be able to navigate through form fields using Tab
 
+* Multi-Step forms
